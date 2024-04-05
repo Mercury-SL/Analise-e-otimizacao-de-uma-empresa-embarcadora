@@ -30,7 +30,7 @@ Sprint | Previsão | Status| Histórico|
 
 # Equipe
 <div align="center">
- <img src="https://github.com/Mercury-SL/Analise-dos-Fluxos-de-Exportacao-e-Importacao/assets/128007093/ebc1c6e8-2e95-44c0-a15f-e20f976d471f.JPEG" width="600px") />
+ <img src="https://github.com/Mercury-SL/Analise-e-otimizacao-de-uma-empresa-embarcadora/assets/128007093/b96a76e9-a742-4abe-845c-77053876f056.png" width="600px") />
 </div>
 
 # Objetivo do Projeto

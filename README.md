@@ -22,8 +22,8 @@ Esse Projeto é para fins pedagógicos e sua estrutura é baseada na Metodologia
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off | 08/03/2024 | Concluido | [Ver Relatório](https://drive.google.com/file/d/1sVkPsy_PqH2T2JIX7rRHCm8VwTs--bHj/view?usp=drive_link) | 
-|01| 19/04/2024 | Em progresso | [Ver Relatório](https://docs.google.com/document/d/1C7TurJn_a66ISOVTvlKGRihld6ZYyRV3/edit?usp=drive_link&ouid=108673961009193530812&rtpof=true&sd=true) | 
-|02| 10/05/2024 | Agendado | | 
+|01| 19/04/2024 | Concluido | [Ver Relatório](https://docs.google.com/document/d/1C7TurJn_a66ISOVTvlKGRihld6ZYyRV3/edit?usp=drive_link&ouid=108673961009193530812&rtpof=true&sd=true) | 
+|02| 10/05/2024 | Em progresso | | 
 |03| 07/06/2024 | Agendado | | 
 |04| 21/06/2024 | Agendado | | 
 |Feira de Soluções|27/06/2024​ | Agendado | | 

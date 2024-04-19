@@ -22,11 +22,11 @@ Esse Projeto é para fins pedagógicos e sua estrutura é baseada na Metodologia
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off | 08/03/2024 | Concluido | [Ver Relatório](https://drive.google.com/file/d/1sVkPsy_PqH2T2JIX7rRHCm8VwTs--bHj/view?usp=drive_link) | 
-|01| 19/04/2024 | Em progresso |  | 
+|01| 19/04/2024 | Em progresso | [Ver Relatório]() | 
 |02| 10/05/2024 | Agendado | | 
 |03| 07/06/2024 | Agendado | | 
-|04| 21/06/2024 | Agendado |  | 
-|Feira de Soluções|27/06/2024​ | Agendado |[Ver Relatório]() | 
+|04| 21/06/2024 | Agendado | | 
+|Feira de Soluções|27/06/2024​ | Agendado | | 
 
 # Equipe
 <div align="center">
@@ -37,11 +37,6 @@ Sprint | Previsão | Status| Histórico|
 *
 
 # Funcionalidades e registros das sprints
-
-### Sprint 1 
-<div align="left">
- 
-</div>
 
 ### Sprint 2 
 <div align="left">
@@ -76,16 +71,16 @@ Sprint | Previsão | Status| Histórico|
 
 # Cronograma das Sprints
 
-## Sprint 0
-*
-
 ## Sprint 1
-*
+![image](https://github.com/Mercury-SL/Analise-e-otimizacao-de-uma-empresa-embarcadora/assets/128007093/fdc8e634-d87e-4037-a942-237638618558)
 
 ## Sprint 2
 *
 
 ## Sprint 3
+*
+
+## Sprint 4
 *
 
 # Backlog do produto
@@ -110,7 +105,7 @@ Requisitos não funcionais
   
 # Burndown
 ## Sprint 1
-*
+![image](https://github.com/Mercury-SL/Analise-e-otimizacao-de-uma-empresa-embarcadora/assets/128007093/a86b02ee-97f0-457c-9cfc-caca0cf06009)
 
 ## Sprint 2
 *
@@ -121,7 +116,7 @@ Requisitos não funcionais
 ## Sprint 4
 *
 
-## Sprint 0. Concepção
+## Sprint 1. Concepção
 - [x] Criação e organização do Github;
 - [x] Definição de posições de cada membro;
 - [x] Pesquisa de comprometimento da equipe;
@@ -131,15 +126,12 @@ Requisitos não funcionais
 - [x] Reunião final - Sprint 0;
 - [x] Nivelamento de conhecimento sobre a base de dados;
 
-## Sprint 1. 
-*
-     
 ## Sprint 2. 
 *
-      
+     
 ## Sprint 3. 
 *
-
+      
 ## Sprint 4. 
 *
 

@@ -91,7 +91,7 @@ Sprint | Previsão | Status| Histórico|
 ![5W2H](https://github.com/Mercury-SL/Analise-e-otimizacao-de-uma-empresa-embarcadora/assets/128007093/33374550-0215-4a2e-b6bb-a982fc56cd21)
 
 ## Sprint 2
-![image](https://github.com/Mercury-SL/Analise-e-otimizacao-de-uma-empresa-embarcadora/assets/128007093/414a90c5-3e33-4594-8729-daa8059875b2)
+![image](https://github.com/Mercury-SL/Analise-e-otimizacao-de-uma-empresa-embarcadora/assets/128007093/21e37a6f-ff7e-4ef5-97bb-8291ec7baff3)
 
 ## Sprint 3
 ![image](https://github.com/Mercury-SL/Analise-e-otimizacao-de-uma-empresa-embarcadora/assets/128007093/75d7ebdd-caac-42c0-adfd-5b3fe996b057)

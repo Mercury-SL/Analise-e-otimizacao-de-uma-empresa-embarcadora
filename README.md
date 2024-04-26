@@ -91,13 +91,13 @@ Sprint | Previsão | Status| Histórico|
 ![5W2H](https://github.com/Mercury-SL/Analise-e-otimizacao-de-uma-empresa-embarcadora/assets/128007093/33374550-0215-4a2e-b6bb-a982fc56cd21)
 
 ## Sprint 2
-![image](https://github.com/Mercury-SL/Analise-e-otimizacao-de-uma-empresa-embarcadora/assets/128007093/21e37a6f-ff7e-4ef5-97bb-8291ec7baff3)
+![image](https://github.com/Mercury-SL/Analise-e-otimizacao-de-uma-empresa-embarcadora/assets/128007093/a52382ac-fdb2-4f52-a2be-2891bfb61784)
 
 ## Sprint 3
-![image](https://github.com/Mercury-SL/Analise-e-otimizacao-de-uma-empresa-embarcadora/assets/128007093/75d7ebdd-caac-42c0-adfd-5b3fe996b057)
+![image](https://github.com/Mercury-SL/Analise-e-otimizacao-de-uma-empresa-embarcadora/assets/128007093/aa50c248-71a1-4626-a9e4-7eeb9c0d6659)
 
 ## Sprint 4
-![image](https://github.com/Mercury-SL/Analise-e-otimizacao-de-uma-empresa-embarcadora/assets/128007093/5ea71491-7115-4520-bce4-1b41f21775df)
+![image](https://github.com/Mercury-SL/Analise-e-otimizacao-de-uma-empresa-embarcadora/assets/128007093/724d1b5b-075e-43c5-a7fe-85292219f5db)
 
 # Regras de Negócio
 
@@ -111,7 +111,7 @@ Requisitos funcionais
 Requisitos não funcionais
 * Metodologia ágil.
 * Usar tecnologias específicas/apoio/tecnológicas.
-* Power BI / SQL / Jira / Phyton / Canvas / Figma.
+* Power BI / SQL / Jira / Python / Canvas / Figma.
   
 # Burndown
 ## Sprint 1

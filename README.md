@@ -34,7 +34,7 @@ Sprint | Previsão | Status| Histórico|
 </div>
 
 # Objetivo do Projeto
-*
+* Análise de produtividade de veículos, de otimização de distribuição e de custo de rotas de uma empresa embarcadora de carga utilizando SQL para criação e modelagem de banco de dados e o Power BI para a criação de um visualizador dos indicadores.
 
 # Funcionalidades e registros das sprints
 
@@ -84,6 +84,9 @@ Sprint | Previsão | Status| Histórico|
 *
 
 # Backlog do produto
+![BacklogProd](https://github.com/Mercury-SL/Analise-e-otimizacao-de-uma-empresa-embarcadora/assets/128007093/f39a1606-fb89-4307-925f-5b50cc807bbe)
+
+# Backlog das Sprints
 ## Sprint 1
 ![5W2H](https://github.com/Mercury-SL/Analise-e-otimizacao-de-uma-empresa-embarcadora/assets/128007093/33374550-0215-4a2e-b6bb-a982fc56cd21)
 
@@ -97,11 +100,18 @@ Sprint | Previsão | Status| Histórico|
 ![image](https://github.com/Mercury-SL/Analise-e-otimizacao-de-uma-empresa-embarcadora/assets/128007093/5ea71491-7115-4520-bce4-1b41f21775df)
 
 # Regras de Negócio
+
 Requisitos funcionais 
-*
+* Uma estrutura de banco de dados relacional;
+* Uma tela de BI mostre a produtividade mensal dos veículos (relação entre outputs e inputs);
+* Uma tela BI com evolução dos custos por km de cada rota, filtrando por fábricas;
+* Uma tela BI com evolução dos custos por unidade transportada de cada rota, filtrando por fábricas.
+
 
 Requisitos não funcionais
-*
+* Metodologia ágil.
+* Usar tecnologias específicas/apoio/tecnológicas.
+* Power BI / SQL / Jira / Phyton / Canvas / Figma.
   
 # Burndown
 ## Sprint 1

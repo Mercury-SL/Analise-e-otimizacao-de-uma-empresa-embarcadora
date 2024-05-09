@@ -34,6 +34,7 @@ Sprint | Previsão | Status| Histórico|
 </div>
 
 # Objetivo do Projeto
+* Esta pesquisa se propõe a examinar a análise e otimização de uma empresa embarcadora estabelecida no Estado de São Paulo. Ao longo deste estudo, serão abordados diversos aspectos, como a análise dos processos logísticos, gestão de estoque, transporte e distribuição, bem como a utilização de tecnologias e ferramentas de gestão para melhorar a eficiência operacional e reduzir custos.
 * Análise de produtividade de veículos, de otimização de distribuição e de custo de rotas de uma empresa embarcadora de carga utilizando SQL para criação e modelagem de banco de dados e o Power BI para a criação de um visualizador dos indicadores.
 
 # Funcionalidades e registros das sprints
@@ -137,7 +138,12 @@ Requisitos não funcionais
 - [x] Nivelamento de conhecimento sobre a base de dados;
 
 ## Sprint 2. 
-*
+- [x] Documentação - Sprint 2
+- [x] Protótipo - Power BI
+- [x] Atualização GitHub - Sprint 2
+- [x] Identificação e correção dos erros da base de dados
+- [x] Aprendizagem ferramenta - Python
+- [x] Pesquisa restrições transporte dentro de SP
      
 ## Sprint 3. 
 *

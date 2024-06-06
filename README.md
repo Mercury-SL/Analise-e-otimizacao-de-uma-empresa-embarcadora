@@ -95,10 +95,10 @@ Sprint | Previsão | Status| Histórico|
 ![image](https://github.com/Mercury-SL/Analise-e-otimizacao-de-uma-empresa-embarcadora/assets/128007093/a52382ac-fdb2-4f52-a2be-2891bfb61784)
 
 ## Sprint 3
-![image](https://github.com/Mercury-SL/Analise-e-otimizacao-de-uma-empresa-embarcadora/assets/128007093/aa50c248-71a1-4626-a9e4-7eeb9c0d6659)
+![sprint 3](https://github.com/Mercury-SL/Analise-e-otimizacao-de-uma-empresa-embarcadora/assets/128007093/60377f8c-f7bd-44d9-b20b-5d65b98ba938)
 
 ## Sprint 4
-![image](https://github.com/Mercury-SL/Analise-e-otimizacao-de-uma-empresa-embarcadora/assets/128007093/724d1b5b-075e-43c5-a7fe-85292219f5db)
+![sprint 4](https://github.com/Mercury-SL/Analise-e-otimizacao-de-uma-empresa-embarcadora/assets/128007093/8f61889f-0396-44a0-9349-70c522fa5bc6)
 
 # Regras de Negócio
 

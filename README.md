@@ -79,7 +79,7 @@ Sprint | Previsão | Status| Histórico|
 ![image](https://github.com/Mercury-SL/Analise-e-otimizacao-de-uma-empresa-embarcadora/assets/128007093/03ccf780-5346-4857-ac4e-257d97fb365b)
 
 ## Sprint 3
-*
+![image](https://github.com/Mercury-SL/Analise-e-otimizacao-de-uma-empresa-embarcadora/assets/128007093/49db967d-a791-4206-bd24-2a4be8830df9)
 
 ## Sprint 4
 *
@@ -122,7 +122,7 @@ Requisitos não funcionais
 ![image](https://github.com/Mercury-SL/Analise-e-otimizacao-de-uma-empresa-embarcadora/assets/128007093/ee19ac68-fe2b-40fa-bb33-86cf0c07af44)
 
 ## Sprint 3
-*
+![image](https://github.com/Mercury-SL/Analise-e-otimizacao-de-uma-empresa-embarcadora/assets/128007093/212467db-9a22-49d0-a753-09b71e2a4fc2)
 
 ## Sprint 4
 *
@@ -146,7 +146,13 @@ Requisitos não funcionais
 - [x] Pesquisa restrições transporte dentro de SP
      
 ## Sprint 3. 
-*
+- [x] Protótipo - Python
+- [x] Aplicação do python na resolução do problema
+- [x] Design das ferramentas digitais
+- [x] Aprimoramento do Power BI
+- [ ] Pesquisa de comparação de compra e consumo de bebidas alcoólica entre os meses de 2023.
+- [x] Atualização GitHub - Sprint 3
+- [x] Documentação - Sprint 3
       
 ## Sprint 4. 
 *

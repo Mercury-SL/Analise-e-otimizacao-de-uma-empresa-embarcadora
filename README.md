@@ -70,6 +70,12 @@ Sprint | Previsão | Status| Histórico|
 - [5W2H](https://youtu.be/M4dNnrcUq9s)
 - [Scrum](https://youtu.be/HlmiVz0SqNQ)
 
+## Dados gerados
+  - [Python](https://drive.google.com/file/d/1kn-6R9s17_RMmvS5xNLqF6CUIv6MN0de/view?usp=drive_link)
+  - [Valores 2023.CSV](https://drive.google.com/file/d/1Ps698_g3-Fw6H537udrJ3qamHw4oNYcK/view?usp=drive_link)
+  - [Valores 2024.XLSX](https://docs.google.com/spreadsheets/d/1C10PDNR3WJcaT0Rj1DsnprKTlLskgVnR/edit?usp=drive_link&ouid=108673961009193530812&rtpof=true&sd=true)
+  - [Banco de dados - SQL SERVER]
+
 # Cronograma das Sprints
 
 ## Sprint 1
@@ -98,7 +104,7 @@ Sprint | Previsão | Status| Histórico|
 ![sprint 3](https://github.com/Mercury-SL/Analise-e-otimizacao-de-uma-empresa-embarcadora/assets/128007093/60377f8c-f7bd-44d9-b20b-5d65b98ba938)
 
 ## Sprint 4
-![sprint 4](https://github.com/Mercury-SL/Analise-e-otimizacao-de-uma-empresa-embarcadora/assets/128007093/8f61889f-0396-44a0-9349-70c522fa5bc6)
+![sprint 4](https://github.com/Mercury-SL/Analise-e-otimizacao-de-uma-empresa-embarcadora/assets/128007093/2abc617c-9071-4038-9c8a-0e56502c8af9)
 
 # Regras de Negócio
 

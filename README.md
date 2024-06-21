@@ -88,7 +88,7 @@ Sprint | Previsão | Status| Histórico|
 ![image](https://github.com/Mercury-SL/Analise-e-otimizacao-de-uma-empresa-embarcadora/assets/128007093/49db967d-a791-4206-bd24-2a4be8830df9)
 
 ## Sprint 4
-*
+![image](https://github.com/Mercury-SL/Analise-e-otimizacao-de-uma-empresa-embarcadora/assets/128007093/66513a4c-1aae-486b-abbf-f0e3ecba4f89)
 
 # Backlog do produto
 ![BacklogProd](https://github.com/Mercury-SL/Analise-e-otimizacao-de-uma-empresa-embarcadora/assets/128007093/f39a1606-fb89-4307-925f-5b50cc807bbe)
@@ -131,7 +131,7 @@ Requisitos não funcionais
 ![image](https://github.com/Mercury-SL/Analise-e-otimizacao-de-uma-empresa-embarcadora/assets/128007093/212467db-9a22-49d0-a753-09b71e2a4fc2)
 
 ## Sprint 4
-*
+![image](https://github.com/Mercury-SL/Analise-e-otimizacao-de-uma-empresa-embarcadora/assets/128007093/648510ca-75cb-4e00-a24e-8d389d9089aa)
 
 ## Sprint 1. Concepção
 - [x] Criação e organização do Github;
@@ -161,7 +161,12 @@ Requisitos não funcionais
 - [x] Documentação - Sprint 3
       
 ## Sprint 4. 
-*
+- [x] Aprimoramento do Python
+- [x] Atualização GitHub - Sprint 4
+- [x] Finalização - Power BI
+- [x] Aprimoramento do design das ferramentas digitais
+- [x] Documentação - Sprint 4
+- [x] Planejamento feira de soluções
 
 # Competências desenvolvidas
 

@@ -10,6 +10,7 @@ Projeto com base na metodologia agil SCRUM, que visa promover o desenvolvimento 
 * [Equipe](#equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Funcionalidades e registros](#Funcionalidades-e-registros-das-sprints)
+* [Dados gerados](#Dados-gerados)
 * [Cronograma das Sprints](#Cronograma-das-Sprints)
 * [Backlog do produto](#Backlog-do-produto)
 * [Burndown](#Burndown)
@@ -26,7 +27,7 @@ Sprint | Previsão | Status| Histórico|
 |02| 10/05/2024 | Concluído | [Ver Relatório](https://docs.google.com/document/d/1ZiV6hLOk-bk070MLpq1ImQ05A2vDRuwk/edit?usp=drive_link&ouid=108673961009193530812&rtpof=true&sd=true)| 
 |03| 07/06/2024 | Concluído |[Ver Relatório](https://docs.google.com/document/d/1Buh0-AhfBIoZxjiyCbyYJ1Vs2puqeP4E/edit?usp=drive_link&ouid=108673961009193530812&rtpof=true&sd=true) | 
 |04| 21/06/2024 | Concluído | [Ver Relatório](https://docs.google.com/document/d/1alvW1uIiBnnOajust2XxvZYW0HQAoWzL/edit?usp=drive_link&ouid=108673961009193530812&rtpof=true&sd=true)
-|Feira de Soluções|27/06/2024​ | Agendado | | 
+|Feira de Soluções|27/06/2024​ | Concluído | | 
 
 # Equipe
 <div align="center">
@@ -74,7 +75,11 @@ Sprint | Previsão | Status| Histórico|
   - [Python](https://drive.google.com/file/d/1kn-6R9s17_RMmvS5xNLqF6CUIv6MN0de/view?usp=drive_link)
   - [Valores 2023.CSV](https://drive.google.com/file/d/1Ps698_g3-Fw6H537udrJ3qamHw4oNYcK/view?usp=drive_link)
   - [Valores 2024.XLSX](https://docs.google.com/spreadsheets/d/1C10PDNR3WJcaT0Rj1DsnprKTlLskgVnR/edit?usp=drive_link&ouid=108673961009193530812&rtpof=true&sd=true)
-  - [Banco de dados - SQL SERVER]
+  - [Banco de dados - SQL SERVER](https://drive.google.com/file/d/1YAYXOH3qS6JpZAhI0Xe3--K0HiyEe3M7/view?usp=drive_link)
+##### Código - SQL SERVER
+  - [Alteração das tabelas](https://drive.google.com/file/d/1HB_dbKe7Gv9ictLm5kJpwi06ky_bS7Sb/view?usp=drive_link)
+  - [Filtragem das tabelas](https://drive.google.com/file/d/1-wpUmWRl7NEMbG14Qnw-wxi14LHNGVY_/view?usp=drive_link)
+  - [Selecionar tabelas](https://drive.google.com/file/d/1Y22xAFII3_hY06xSvgD7nLmre7gxzVGb/view?usp=drive_link)
 
 # Cronograma das Sprints
 
@@ -176,19 +181,18 @@ Requisitos não funcionais
   
 | Tecnologia/Metodologia | Classificação |
 | ---------------------- | ------------- |
-| Jira | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Github | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-| Excel | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Power BI | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Figma | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Canva | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| 5W2H | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Genial.ly | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Google Maps | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Word | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Metodologia agil | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Scrum Master | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Project Owner | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Jira | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+| Github | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+| Excel | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
+| Power BI | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
+| Figma | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
+| Canva | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+| 5W2H | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+| Google Maps | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+| Word | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
+| Metodologia agil | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+| Scrum Master | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
+| Project Owner | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
  
 </details>
 
@@ -198,11 +202,11 @@ Requisitos não funcionais
 
 | Habilidades | Classificação |
 | ---------------------- | ------------- |
-| Adaptabilidade | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
-| Colaboração| ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ |
-| Comunicação | ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ |
-| Autonomia | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
-| Proatividade | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
+| Adaptabilidade | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+| Colaboração| ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+| Comunicação | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
+| Autonomia | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
+| Proatividade | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
 
 </details>
 

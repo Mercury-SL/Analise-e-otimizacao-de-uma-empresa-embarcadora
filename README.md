@@ -22,10 +22,10 @@ Esse Projeto é para fins pedagógicos e sua estrutura é baseada na Metodologia
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off | 08/03/2024 | Concluido | [Ver Relatório](https://drive.google.com/file/d/1sVkPsy_PqH2T2JIX7rRHCm8VwTs--bHj/view?usp=drive_link) | 
-|01| 19/04/2024 | Concluido | [Ver Relatório](https://docs.google.com/document/d/1C7TurJn_a66ISOVTvlKGRihld6ZYyRV3/edit?usp=drive_link&ouid=108673961009193530812&rtpof=true&sd=true) | 
-|02| 10/05/2024 | Concluido | [Ver Relatório](https://docs.google.com/document/d/1ZiV6hLOk-bk070MLpq1ImQ05A2vDRuwk/edit?usp=drive_link&ouid=108673961009193530812&rtpof=true&sd=true)| 
-|03| 07/06/2024 | Concluido |[Ver Relatório](https://docs.google.com/document/d/1Buh0-AhfBIoZxjiyCbyYJ1Vs2puqeP4E/edit?usp=drive_link&ouid=108673961009193530812&rtpof=true&sd=true) | 
-|04| 21/06/2024 | Concluido | [Ver Relatório](https://docs.google.com/document/d/1alvW1uIiBnnOajust2XxvZYW0HQAoWzL/edit?usp=drive_link&ouid=108673961009193530812&rtpof=true&sd=true)
+|01| 19/04/2024 | Concluído | [Ver Relatório](https://docs.google.com/document/d/1C7TurJn_a66ISOVTvlKGRihld6ZYyRV3/edit?usp=drive_link&ouid=108673961009193530812&rtpof=true&sd=true) | 
+|02| 10/05/2024 | Concluído | [Ver Relatório](https://docs.google.com/document/d/1ZiV6hLOk-bk070MLpq1ImQ05A2vDRuwk/edit?usp=drive_link&ouid=108673961009193530812&rtpof=true&sd=true)| 
+|03| 07/06/2024 | Concluído |[Ver Relatório](https://docs.google.com/document/d/1Buh0-AhfBIoZxjiyCbyYJ1Vs2puqeP4E/edit?usp=drive_link&ouid=108673961009193530812&rtpof=true&sd=true) | 
+|04| 21/06/2024 | Concluído | [Ver Relatório](https://docs.google.com/document/d/1alvW1uIiBnnOajust2XxvZYW0HQAoWzL/edit?usp=drive_link&ouid=108673961009193530812&rtpof=true&sd=true)
 |Feira de Soluções|27/06/2024​ | Agendado | | 
 
 # Equipe

@@ -51,8 +51,8 @@ Sprint | Previsão | Status| Histórico|
 
 ### Sprint 4
 <div align="left">
- 
-</div> 
+<img src="https://github.com/Mercury-SL/Analise-e-otimizacao-de-uma-empresa-embarcadora/assets/128007093/45c1e6c7-f784-4800-8158-157b3a59ebff.GIF" width="600px") />
+</div>
 
 ## Tecnologias Utilizadas
   ### Produto 
